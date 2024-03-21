@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mundo do Sport</title>
+    <link rel="stylesheet" href="Stylo.css/Css">
+</head>
+<body>
+
+    <div>   
+        <div class="logo">
+            <img src="imagens/lo2.jpg" alt="logo" width="200"/>
+        </div>
+    </div>
+
+    <div class="bar"></div>
+
+    <div class="content">
+        <div class="sidebar">
+            <h2>Modalidades</h2>
+            <ul>
+                <li><a href="#">Futebol</a></li>
+                <li><a href="#volei">Volei</a></li>
+                <li><a href="#Basquetebol">Basquetebol</a></li>
+                <li><a href="#ciclismo">Ciclismo</a></li>
+               
+            </ul>
+            
+        </div>
+
+        <div class="main">
+
+             <h1>Origens Do Futebol</h1>
+                <figure>
+                    <img src="imagens/fut.jpg" alt="logo" width="400"/>
+                </figure>
+             <hr>
+             <p>A atividade mais antiga que se assemelha ao futebol moderno da qual se tem conhecimento data dos séculos III e II a.C. 
+                Estes dados são baseados em um manual de exercícios correspondentes à dinastia Han da antiga China. 
+                O jogo era chamado ts'uh Kúh (cuju), e consistia em lançar uma bola com os pés para uma pequena rede.
+               
+                Uma variante incluía uma modalidade onde o jogador deveria passar pelo ataque dos seus adversários. 
+                Também no Extremo Oriente, embora cerca de cinco ou seis séculos depois do cuju, existia uma variante 
+                japonesa chamada kemari, que tinha um caráter mais cerimonial,
+                sendo o objetivo do jogo manter uma bola no ar passando-a entre os jogadores.
+                O kemari até hoje é praticado no Japão, em eventos culturais</p>
+
+
+                <h2 id="Unificações">Unificações do século XIX</h2>
+
+                           <p>Os clubes britânicos se dividiram em relação ao jogo denominado rúgbi, e enquanto vários decidiram segui-lo, outros decidiram rejeitá-lo, devido ao fato que nestes a prática de não tocar a bola com a mão era mais aceita. 
+                              Entre estes últimos se encontravam os clubes de Eton, Harrow, Winchester, Charterhouse e Westminster.
+                              Em meados do século XIX foram dados os primeiros passos para unificar todos as regras e formas de jogo do futebol em um único desporto. 
+                              A primeira tentativa foi em 1848, quando na Universidade de Cambridge, Henry de Winton e John Charles Thring convocaram membros de outras escolas para regulamentar um código de regras, o Código Cambridge, também conhecido como as Regras de Cambridge.
+                              As regras tinham uma semelhança significativa com relação as regras do futebol atual. Talvez o mais importante de todos foi a limitação das mãos para tocar a bola, passando a responsabilidade de mover a mesma aos pés. 
+                              O objetivo do jogo era fazer passar uma bola entre dois postes verticais e debaixo de uma fita que os unia, ato chamado golo, e a equipe que marcava mais golos era a vencedora. Também foi criada uma regra de impedimento similar à atual. 
+                              Os documentos originais de 1848 se perderam, mas é conservada uma cópia das regras do ano 1856.</p>
+
+                    <h3 id="Primeiros eventos">Primeiros eventos</h3>
+
+                            <p>Já com as regras do futebol bem definidas, começou-se a disputar os primeiros jogos e torneios com esta nova modalidade. Em 30 de novembro de 1872, Escócia e Inglaterra disputaram a primeira partida oficial entre seleções nacionais, jogo que acabou num empate sem gols. 
+                               A partida foi disputada no Hamilton Crescent, atual campo de críquete, em Partick, Escócia.[47] Entre janeiro e março de 1884 foi disputada a primeira edição do British Home Championship, que até seu fim foi o torneio entre seleções mais antigo da história. 
+                               O primeiro título foi ganho pela Escócia
+                               Em 20 de julho de 1871, um jornal britânico propôs a criação de um torneio que fosse organizado pela Football Association, o primeiro passo para a criação da Copa da Inglaterra.
+                               Nesse ano, a Football Association era composta por 30 equipes, mas somente 15 decidiram participar da primeira edição do torneio, a FA Cup 1871-1872, que foi ganha pelo Wanderers F.C..
+                               A primeira competição de liga chegou na temporada 1888/1889 com a criação da Football League. Participaram 12 equipes afiliadas à FA, e cada uma jogou 22 partidas. 
+                               Este torneio foi vencido pelo Preston North End Football Club, que conseguiu o feito de vencer invicto.</p>
+
+                    <h2 id="Popularidade">Popularidade</h2>
+                    
+                              <p>Segundo uma pesquisa realizada pela FIFA no ano de 2006, aproximadamente 270 milhões de pessoas no mundo estão ativamente envolvidos no futebol, incluindo jogadores, árbitros e diretores.
+                               Destas, 265 milhões jogam o desporto regularmente de maneira profissional, semiprofissional ou amadora, considerando tanto a homens, mulheres, jovens e crianças. Este valor representa cerca de 4% da população mundial. 
+                               A confederação com maior porcentagem de pessoas ativamente envolvidas com o futebol é a CONCACAF, com cerca de 8,53% da população.
+                               Em contrapartida, na região da AFC esta porcentagem é de somente 2,22%. A UEFA tem uma porcentagem de participação de 7,59%; a CONMEBOL, de 7,47%; a OFC, de 4,68%; e a CFA, de 5,16%. Existem mais de 1,7 milhões de equipes no mundo e aproximadamente 301 mil clubes.
+                               O país com mais jogadores que regularmente atuam (exceto crianças) é a China Continental, que possui 26,1 milhões de futebolistas. 
+                               Em seguida vêm: Estados Unidos (24,4 milhões), Índia (20,5 milhões), Alemanha (16,3 milhões), Brasil (13,1 milhões) e México (8,4 milhões). Por outro lado, a entidade com menor quantidade de futebolistas regulares (excetuando-se crianças) é Montserrat, com apenas 300 jogadores, seguido das Ilhas Virgens Britânicas (658), Anguila (760) e as Ilhas Turcas e Caicós (950).</p>
+                               
+                    <figure>
+                        <img src="imagens/mundo.png" alt="">
+                    </figure>  
+                    <hr>
+                    
+                    <h2 id="volei">História do Volei</h2>
+                    <small><a href="">(Inicio)</a></small>
+
+                          <figure>
+                               <img src="imagens/vo.jpg" alt="">
+                          </figure>
+
+                           <p>O vôlei foi criado em 9 de fevereiro de 1895 por William George Morgan nos Estados Unidos. O objetivo de Morgan, que trabalhava na "Associação Cristã de Moços" (ACM), era criar um esporte de equipes sem contato físico entre os adversários, de modo a minimizar os riscos de lesões. 
+                              Inicialmente jogava-se com uma câmara de ar da bola de basquetebol e foi chamado Mintonette, mas rapidamente ganhou popularidade com o nome de volleyball. 
+                              O criador do voleibol faleceu em 27 de dezembro de 1942 aos 72 anos de idade.</p>
+                           <p>O voleibol de praia, uma modalidade derivada do voleibol surgida na década de 1920, tem obtido grande sucesso em diversos países, nomeadamente no Brasil e nos Estados Unidos.</p>
+                        
+                    <h2 id="Regras">Regras</h2>
+
+                            <p>Cada equipe de voleibol é constituída por 12 jogadores: seis efetivos (sendo um líbero) e seis suplentes. Em quadra, portanto, ficam dois times de seis jogadores.
+                                As equipes são separadas por uma rede no meio da quadra. O jogo começa com um dos times que devem sacar. Logo depois do saque, a bola deve ultrapassar a rede e seguir ao campo do adversário onde os jogadores tentam evitar que a bola entre no seu campo usando qualquer parte do corpo (antes não era válido usar membros da cintura para baixo, mas as regras foram mudadas). 
+                                O jogador pode rebater a bola para que ela passe para o campo adversário sendo permitidos dar três toques na bola antes que ela passe, sempre alternando os jogadores que dão os toques. Caso a bola caia, é ponto do time adversário                 
+                                O jogador não pode encostar na rede e, caso isso ocorra, o ponto será para o outro time. O mesmo jogador não pode dar 2 ou mais toques seguidos na bola, exceção no caso do toque de Bloqueio.</p>
+                    <hr>
+                        <h2 id="campo">O campo</h2>
+
+                             <p>É retangular, com a dimensão de 18 x 9 metros, com uma rede no meio colocada a uma altura variável, conforme o sexo e a categoria dos jogadores (exemplo dos seniores e juniores: masculino 2,43 metros e feminino 2,24 metros).
+
+                                Há uma linha de 3 metros em direção do campo para a rede, dos dois lados e uma distância de 6 metros até o fim da quadra. Fazendo uma quadra de extensão de 18 metros de ponta a ponta e 9 metros de lado a lado.
+                                O campo mede 18 metros de comprimento por 9 de largura (18 x 9 metros), e é dividido por uma linha central em um dos lados de nove metros que constituem as quadras de cada time. 
+                                O objetivo principal é conquistar pontos fazendo a bola encostar na quadra adversária ou sair da área de jogo após ter sido tocada por um oponente.</p>
+
+                            <figure>
+                                <img src="imagens/cmpv.png" alt="">
+                            </figure>
+                                    <hr>
+
+                   <h2 id="Basquetebol">História Basquetebol </h2>     
+                         <small><a href="">(Inicio)</a></small>
+                            
+                            <figure>
+                                <img src="imagens/basq.jpg" alt="">
+                            </figure>
+                   
+                            <p id="história">O primeiro jogo
+                                O primeiro jogo de Basquetebol foi disputado em 20 de Janeiro de 1892, com nove jogadores em cada equipe e utilizando-se uma bola de futebol, sendo visto apenas por funcionários da Associação Cristã de Moços.
+                                Cerca de duzentas pessoas viram o jogo, que terminou com o placar de 1 a 0, sendo a cesta feita de uma distância de 7,6 metros. Equipes de cinco pessoas passaram a ser o padrão por volta de 1897-1898.
+                                O basquete feminino iniciou em 1892 quando a professora de educação física do Smith College, Senda Berenson, adaptou as regras criadas por James Naismith. 
+                                A primeira partida aconteceu em 4 de Abril de 1896. 
+                                A Universidade de Stanford venceu a Universidade da Califórnia.</p>
+
+                    <h2 id="Objetivo do jogo">Objetivo do jogo</h2>
+                         
+                            <p>O objetivo do jogo é introduzir a bola no cesto da equipe adversária (marcando pontos) e, simultaneamente, evitar que esta seja introduzida no próprio cesto, respeitando as regras do jogo. 
+                                A equipe que obtiver mais pontos no fim do jogo vence.
+
+                                A competição é dirigida por:
+
+                                Três árbitros – têm como função assegurarem o cumprimento das regras do jogo;
+                                Um marcador e o seu auxiliar – têm como funções o preenchimento do boletim de jogo, onde registram os pontos marcados, as faltas pessoais e técnicas, etc.;
+                                O cronometrista – verifica o tempo de jogo e os descontos de tempo;
+                                Um operador de vinte e quatro segundos – controla os 24 segundos que cada equipe dispõe para a execução de uma jogada.</p>
+
+                    <h2 id="Características">Características</h2>
+                                   <figure>
+                                    <img src="imagens/baq2.jpg" alt="">
+                                   </figure>
+                         
+                            <p>Cesto é o nome comum que se dá ao encestar (fazer a bola passar pelo aro) e então marcam-se pontos, dependendo do local e das circunstâncias do cesto: se for cesto dentro do garrafão 
+                                (nome comum dado à Área Restritiva) obtém-se dois pontos, se for fora da linha dos 6,75 metros obtém-se 3 pontos, se for lance livre após uma falta, o cesto equivale a 1 ponto. 
+                                As equipes devem fazer pontos sempre do lado oposto - é o meia-quadra de ataque - e defender o cesto do seu lado - na meia-quadra de defesa. 
+                                Obviamente a equipa que defende tenta impedir a equipa que ataca de fazer cesto, através da marcação, da interceptação de passes ou até mesmo do bloqueio (toco) ao lançamento.</p>
+                                  <hr>
+
+                    <h2 id="ciclismo">História do ciclismo</h2> 
+                        <small><a href="">(Inicio)</a></small>
+                                
+                                <figure>
+                                    <img src="imagens/cicl.jpg" alt="">
+                                </figure>
+
+                            <p>Entre 1890 e 1900 nasceram grandes provas, que ao longo dos anos se tornaram clássicos, alguns ainda existem hoje como o Liège-Bastogne-Liège.
+
+                                Em 1891 acontece a primeira grande prova de Audax, ou "Randonneurs", entre Paris e Brest (na França), ida e volta, num total de 1200 Km. A prova é a mais tradicional do ciclismo mundial e não tem caráter competitivo. 
+                                Os participantes correm contra o tempo, com diversas regras, para chegar ao final em uma longa prova de logística e superação. Atualmente, para poder participar dos 1200 km, o ciclista deve conseguir realizar num mesmo ano, 
+                                as provas de 200, 300, 400 e 600 km, ganhando o chamado "brevet" para realizar o 1200 km. 
+                                No Brasil essa prova é realizada desde 2003 com autorização do Audax Club Parisien.
+                                Em 1893 foi feito o primeiro Campeonato (CM) Mundial, com provas de sprints e meio fundo, exclusivamente para os corredores amadores do mundo.</p>
+
+                    <h2 id="Modalidade">Modalidade olímpica</h2>
+
+                            <p>O ciclismo faz parte do programa olímpico desde a primeira edição moderna dos jogos de Atenas, em 1896, quando os eventos realizados eram apenas em pistas, com bicicletas extremamente aerodinâmicas.
+
+                                Até os Jogos de 1984 em Los Angeles teve apenas a participação masculina. As mulheres começaram a participar dos eventos de estrada nas Olimpíadas de Seul, em 1988.
+                                
+                                Na Olimpíada de Atlanta, 1996, foi adicionada a modalidade de ciclismo de montanha (cross-country), practicado em Mountain Bikes.
+                                
+                                Nos Jogos Olímpicos de Pequim, 2008, foi adicionado outra modalidade desta disciplina "BMX SX" (BMX Supercross), que incorpora novas dificuldades como uma rampa mais íngreme e com saltos maiores, com uma velocidade considerável.</p>     
+
+
+                    <h2 id="Para ciclismo">Para ciclismo</h2>
+                    
+                    
+                    <p>Paraciclismo é um esporte que deriva do ciclismo, destinado a pessoas com deficiência. Sua prática é realizada com a utilização de uma handbike, que é uma espécie de triciclo pedalado com as mãos.
+
+                        No velódromo, as bicicletas não têm marchas e a competição acontece em uma pista oval que varia entre 250 e 325 m de extensão. Velocidade em todas as provas é fundamental. Na estrada, os ciclistas de cada categoria largam ao mesmo tempo. 
+                        As competições são as mais longas da modalidade, com até 120 km de percurso. As disputas contra-relógio exigem mais velocidade que resistência. 
+                        Os atletas largam de um em um minuto, pedalando contra o tempo. Nesta prova a posição dos ciclistas na pista não diz, necessariamente, a colocação real em que se encontram, pois tudo depende do tempo. No Brasil, a modalidade é administrada organizada pela Confederação Brasileira de Ciclismo.</p>
+
+
+
+                    
+        </div>
+
+        <div class="anchors">
+        
+            <h2>Futbol</h2>
+
+            <ul>
+                <li><a href="#Unificações">Unificações do século XIX</a></li>
+                <li><a href="#Primeiros eventos">Primeiros eventos</a></li>
+                <li><a href="#Popularidade">Popularidade</a></li>
+            </ul>
+
+            <h2>Volei</h2>
+
+            <ul>
+                <li><a href="#historia">História do Volei</a></li>
+                <li><a href="#Regras">Regras</a></li>
+                <li><a href="#campo">O Campo</a></li>
+            </ul>
+
+            <h2>Basquetebol</h2>
+
+            <ul>
+
+                <li><a href="#historia">História do basquetebol</a></li>
+                <li><a href="#Objetivo do jogo">Objetivo do jogo</a></li>
+                <li><a href="#Características">Características</a></li>
+            </ul>      
+                 
+            <h2>Ciclismo</h2>           
+
+            <ul>
+                <li><a href="#historia">História do Ciclismo</a></li>
+                <li><a href="#Modalidade">Modalidade olímpica</a></li>
+                <li><a href="#Para ciclismo ">Para ciclismo</a></li>
+            </ul>      
+        </div>
+    </div>
+
+    <div class="footer">
+
+                  <hr>
+                  <p>Esta página foi editada pela última vez às 08h43min de 19   de março de 2024</p>
+                  <lu>
+                      <li><a href="#">Política de privacidade</a> </li>
+                      <li><a href="#">Sobre o Mundo dos esport</a></li>
+                      <li><a href="#">Código de conduta</a> </li>
+                  </lu>
+    </div>
+</body>
+</html>
