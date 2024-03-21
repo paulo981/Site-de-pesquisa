@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.html" >
+
+    <style>
+
+        body, html {
+            display: flex;
+            color: #c0adad;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        ul { list-style: none; padding-left: 5px; }
+        a { color:rgb(40, 40, 122); text-decoration: none;}
+        .bar {
+            background-color: #ece925;
+            padding:15px;
+            border-top: solid 1px #020101;
+            border-bottom: solid 1px #c7b515;
+        }
+        .content {
+            max-width: 1440px;
+            margin: auto;
+            grid-gap: 3rem;
+            display: grid;
+            gap: 3rem;
+            grid-template-areas: "sidebar main anchors";
+            grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        .footer {
+            text-align: center;
+            min-height: 100px;
+            border-top: solid 1px #070101;
+            background-color: #bcc90c;
+        }
+        .anchors {
+            border-left: solid 1px #cdcdcd;
+            padding-left: 15px;
+        }
+        .sidebar {
+            border-right: solid 1px #c0adad;
+        }
+        figure {
+            text-align: center;
+        }
+
+    
+        </style>
+</head>
+<body>
+    
+</body>
+</html>
+
+
